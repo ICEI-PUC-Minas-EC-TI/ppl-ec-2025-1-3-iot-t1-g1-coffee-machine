@@ -1,6 +1,6 @@
 # COFFEE MACHINE
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) ![Linguagem](https://img.shields.io/badge/linguagem-C%2B%2B-blue) ![Licença](https://img.shields.io/badge/licença-MIT-green)
+![Status](https://img.shields.io/badge/status-finalizado-brightgreen) ![Linguagem](https://img.shields.io/badge/linguagem-C%2B%2B-blue) ![Licença](https://img.shields.io/badge/licença-MIT-green)
 
 `PONTÍFICA UNIVERSIDADE CATÓLICA DE MINAS GERAIS / UNIDADE PRAÇA DA LIBERDADE`  
 `ENGENHARIA DA COMPUTAÇÃO`  
