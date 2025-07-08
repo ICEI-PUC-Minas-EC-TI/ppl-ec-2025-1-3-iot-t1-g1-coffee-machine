@@ -27,7 +27,7 @@ Este projeto foi desenvolvido na disciplina de Internet das Coisas (IoT) e consi
 
 # Código (esp32)
 
-<li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
+<li><a href="Codigo/codigo_final.ino/README.md"> Código Fonte (.ino)</a></li>
 
 # Aplicativo para Smartphone
 
