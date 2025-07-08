@@ -63,7 +63,7 @@ Este projeto foi desenvolvido na disciplina de Internet das Coisas (IoT) e consi
 
 ## Manual de Utilização
 
-- [Manual de Utilização](Manual/manual de utilização.md)
+- [Manual de Utilização](Manual/ManualDeUtilização.md)
 
 ---
 
