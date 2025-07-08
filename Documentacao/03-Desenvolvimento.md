@@ -2,7 +2,30 @@
 # Materiais
 
 Os materiais utilizados no projeto foram:
-- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
+
+Microcontrolador:
+
+- ESP32
+
+Sensores:
+
+- Módulo HX711 (para balança)
+- Sensor ultrassônico
+- Sensor de temperatura da água
+
+Atuadores:
+- Bomba d'água
+- Aquecedor 12V
+- Servo motor
+- Relé
+- LEDs RGB
+
+Estrutura:
+- Potes de aço inoxidável
+- Funil de aço inoxidável
+- Suportes de aço inoxidável
+- MDF
+- Parafusos
 
 # Desenvolvimento
 
