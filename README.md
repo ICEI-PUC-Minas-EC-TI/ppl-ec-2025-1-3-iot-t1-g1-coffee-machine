@@ -70,7 +70,7 @@ Este projeto foi desenvolvido na disciplina de Internet das Coisas (IoT) e consi
 ## Documentação
 
 1. [Introdução](Documentacao/01-Introducão.md)  
-2. [Metodologias Ágeis](Documentacao/02-Metodologias Ágeis.md)  
+2. [Metodologia](Documentacao/02-Metodologias Ágeis.md)  
 3. [Desenvolvimento](Documentacao/03-Desenvolvimento.md)  
 4. [Testes](Documentacao/04-Testes.md)  
 5. [Conclusão](Documentacao/05-Conclusão.md)  
