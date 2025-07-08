@@ -25,9 +25,9 @@
 
 Este projeto foi desenvolvido na disciplina de Internet das Coisas (IoT) e consiste em uma cafeteira automatizada controlada por comandos via protocolo MQTT, utilizando o broker mosquitto.org. Aplicamos conhecimentos em Cloud Computing, brokers MQTT e banco de dados para viabilizar a comunicação e o controle remoto do sistema. A interface com o usuário é feita por meio do aplicativo MQTT Dash, que permite enviar comandos e monitorar o funcionamento da cafeteira em tempo real. O sistema incorpora sensores como HX711 (para peso), Dallas Temperature (para temperatura) e sensor de distância, além de atuadores como bomba d’água, aquecedor 12V, servomotor e um relé conversor de tensão, tornando o processo de preparo do café automatizado e inteligente.
 
-# Código (esp32)
+## 📂 Código (ESP32)
 
-<li><a href="Codigo/codigo_final.ino/README.md"> Código Fonte (.ino)</a></li>
+- [Código Fonte (.ino)](Codigo/codigo_final.ino)
 
 # Aplicativo para Smartphone
 
